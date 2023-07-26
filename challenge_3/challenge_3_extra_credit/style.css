@@ -12,3 +12,10 @@ img {
 	border: 5px solid black;
 	width: 516px;
 }
+
+
+#c{
+
+	display: flex;
+	justify-content: flex-end;
+}
