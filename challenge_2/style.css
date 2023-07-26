@@ -7,10 +7,11 @@ h1 {
     background-color: rgba(255, 255, 255, 0.5);
     font-size: 300%;
     padding: 20px;
+    justify-content: center;
 }
 
-img {
-    border: 5px solid #FFCB05;
+#img {
+    border: 5px solid #ffcd05;
     padding: 10px;
 }
 
